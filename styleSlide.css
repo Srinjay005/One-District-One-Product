@@ -1,0 +1,13 @@
+img {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 0 4px;  
+  width: 100%;
+  height: auto;
+}
+.card{
+  padding: 10px;
+      box-shadow: 5px 10px 8px #888888;
+}
